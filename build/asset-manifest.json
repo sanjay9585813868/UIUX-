@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UI-UXThemeChanger/static/css/main.d7659aa0.css",
+    "main.js": "/UI-UXThemeChanger/static/js/main.1bddb003.js",
+    "index.html": "/UI-UXThemeChanger/index.html",
+    "main.d7659aa0.css.map": "/UI-UXThemeChanger/static/css/main.d7659aa0.css.map",
+    "main.1bddb003.js.map": "/UI-UXThemeChanger/static/js/main.1bddb003.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7659aa0.css",
+    "static/js/main.1bddb003.js"
+  ]
+}
